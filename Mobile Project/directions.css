@@ -1,0 +1,17 @@
+.container{
+    width: 85px;
+    height: 45px;
+}
+.nav li{
+    text-align: center;  
+    display: inline;
+    padding-left: 13%;
+}
+.nav{
+    background-color:red;
+}
+.footer b u{
+    padding-left: 12%;
+   
+
+}

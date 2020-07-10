@@ -1,0 +1,12 @@
+.container{
+    width: 85px;
+    height: 45px;
+}
+.nav li{
+    text-align: center;  
+    display: inline;
+    padding-left: 15%;
+}
+.nav{
+    background-color: gray;
+}

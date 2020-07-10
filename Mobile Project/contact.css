@@ -1,0 +1,21 @@
+.container{
+    width: 85px;
+    height: 45px;
+}
+.nav li{
+    text-align: center;  
+    display: inline;
+    padding-left: 13%;
+}
+.nav{
+    background-color: red;
+}
+img{
+    width: 100px;
+    height: 150x;
+
+}
+.footer b u{
+    background-color: red;
+
+}

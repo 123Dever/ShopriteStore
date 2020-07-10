@@ -1,0 +1,23 @@
+
+ img{
+    width: 650px;
+    height: 612px;
+    padding-left: 1%;
+}
+
+.container{
+    width: 85px;
+    height: 45px;
+}
+
+.nav li{
+  text-align: center;  
+  display: inline;
+  padding-left: 13%;
+  }
+
+ .nav{
+     background-color:red;
+  }
+  
+  
